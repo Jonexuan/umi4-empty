@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "author": "",
+  "scripts": {
+    "dev": "max dev",
+    "build": "max build",
+    "postinstall": "max setup",
+    "start": "max dev"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@umijs/max": "^4.0.42",
+    "typescript": "^4.1.2"
+  }
+}
